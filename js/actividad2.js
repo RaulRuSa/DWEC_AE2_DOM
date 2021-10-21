@@ -378,13 +378,13 @@ function cargarFormulario(){
 
     //2 imagenes
     const imgReloj1 = document.createElement("img") 
-    imgReloj1.setAttribute("src", "/img/reloj_1.jpg")
+    imgReloj1.setAttribute("src", "img/reloj_1.jpg")
     imgReloj1.setAttribute("alt", "reloj")
     imgReloj1.setAttribute("class", "imgReloj")
     formulario.appendChild(imgReloj1)
 
     const imgReloj2 = document.createElement("img") 
-    imgReloj2.setAttribute("src", "/img/reloj_2.jpg")
+    imgReloj2.setAttribute("src", "img/reloj_2.jpg")
     imgReloj2.setAttribute("alt", "reloj")
     imgReloj2.setAttribute("class", "imgReloj")
     formulario.appendChild(imgReloj2)
